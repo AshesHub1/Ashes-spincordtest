@@ -10,6 +10,7 @@
 .assetsLargeImageSpotify-17ME3M:hover {
   animation: spin 3s infinite;
   border-radius: 50%;
+  transition: 0.5s ease;
 }
 /*Spining Animation */
 @keyframes spin {
@@ -30,4 +31,5 @@
 .childWrapper-1j_1ub:hover, .wrapper-28eC3z:hover{
   border-radius: 50%;
   animation: spin 0.7s ease;
+  transition: 0.5s ease;
 }
