@@ -4,7 +4,7 @@
 @import url(https://crearts-community.github.io/Friends-Grid/theme.css);
 @import url(https://cdn.statically.io/gh/Overimagine1/old-discord-font/main/source.min.css);
 
-#private-channels a[href="/store"] {
+#private-channels a[href="/store"]a[class="link-39sEB3"] {
     display: none;
 }
 /* Spotify Covers Go Wheeeee */
