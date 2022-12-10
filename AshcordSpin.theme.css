@@ -5,7 +5,7 @@
 @import url(https://cdn.statically.io/gh/Overimagine1/old-discord-font/main/source.min.css);
 
 #app-mount > div.appDevToolsWrapper-1QxdQf > div > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div.container-1eFtFS > div > div > div.sidebar-1tnWFu > nav > div.scroller-WSmht3.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN > ul > li:nth-child(4) {
-    display: none;
+    display: none!important;
 }
 /* Spotify Covers Go Wheeeee */
 .childWrapper-1j_1ub:hover, .wrapper-28eC3z:hover{
